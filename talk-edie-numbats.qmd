@@ -1,0 +1,36 @@
+---
+title: "Engage the masses"
+subtitle: "A toolkit for multi-modal expression and formative assessment in diverse classrooms"
+author: Fonti Kar & Michael Lydeamore
+date: today
+toc: false
+format:
+  presentation-revealjs+letterbox: default
+execute:
+  engine: knitr
+---
+
+## Introduction
+
+## Problem setting
+
+# Ed-ie
+
+<https://www.ed-ie.com>
+
+## Ed-ie structure
+
+::: {.incremental}
+* Ed-ie consists of a set of _spaces_
+* Each space consists of a set of _sessions_
+* Each session has a unique set of data associated with it
+:::
+
+::: {.fragment}
+The host page lets you log into a space, and manage your sessions.
+:::
+
+::: {.fragment}
+Participants join a space + session using the join page, or the QR code on the host page
+:::
+
