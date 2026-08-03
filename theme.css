@@ -1,0 +1,9 @@
+.custom-callout-box {
+  background-color: #eef4f9;        /* Soft blue background tint */
+  border: 5px solid #0066cc;   /* Thick primary blue accent line */
+  border-radius: 6px;               /* Rounds all 4 outer corners */
+  padding: 15px 20px;               /* Inner spacing around text */
+  margin: 20px 0;                   /* Outer vertical spacing */
+  color: #333333;                   /* Dark grey text color */
+  font-family: sans-serif;          /* Clean modern font stack */
+}
