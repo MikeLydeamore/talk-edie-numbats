@@ -19,7 +19,7 @@ execute:
 ![](images/fontikar-github-photo.jpeg){fig-alt="Fonti Kar" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
 :::
 
-* I'm Fonti Kar
+* I'm [@fontikar](https://github.com/fontikar)
 * CDPAE (mostly) at Caufield
 * Biodiversity data wrangler 
 * Lover of open source tools
@@ -31,15 +31,33 @@ execute:
 ![](images/michael-lydeamore-github-photo.jpeg){fig-alt="Michael Lydeamore" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
 :::
 
-* I'm Michael Lydeamore
+* I'm [@MikeLydeamore](https://github.com/MikeLydeamore)
 * Chief vibes officer
+* `ggplot2battles`
 :::
 :::
 
 
-## A classroom anecdote
+## A classroom anecdote 
 
+::: {.columns}
+::: {.column width="55%"}
 
+You walk into your class and think to yourself: 
+
+- "Goodness, am I getting older?" 😯
+- "How am I going to compete their whatever is on their phone?" 😬
+- "What does yeet/sigma/aura mean?" 😵‍💫
+- "Yikes, how can I engage and build a connection with my students?" 😩
+:::
+
+::: {.column width="45%"}
+::: {.fragment .custom-callout-box}
+![](images/dead-poets-society.jpg){fig-alt="Dead Poets Society classroom scene" width="100%"}
+What solutions do we have as educators??
+:::
+:::
+:::
 
 
 ## A development anecdote
