@@ -20,7 +20,7 @@ bibliography: references.bib
 ![](images/fontikar-github-photo.jpeg){fig-alt="Fonti Kar" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
 :::
 
-* I'm [@fontikar](https://github.com/fontikar)
+* I'm [\@fontikar](https://github.com/fontikar)
 * CDPAE (mostly) at Caufield
 * Biodiversity data wrangler 
 * Lover of open source tools
@@ -32,7 +32,7 @@ bibliography: references.bib
 ![](images/michael-lydeamore-github-photo.jpeg){fig-alt="Michael Lydeamore" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
 :::
 
-* I'm [@MikeLydeamore](https://github.com/MikeLydeamore)
+* I'm [\@MikeLydeamore](https://github.com/MikeLydeamore)
 * Chief vibes officer
 * `ggplot2battles`
 :::
