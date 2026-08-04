@@ -87,7 +87,7 @@ This is exactly the fear students feel in our classes.
 
 ## Our inspo ✨
 
-At WOMBAT 2024, Anna Ferguson showed off the "Quick Write Tool"
+At [WOMBAT 2024,](https://wombat2024.numbat.space/Developing%20tools%20for%20%E2%80%9Creal%20time%E2%80%9D%20formative%20assessment%20of%20writing%20within%20large%20introductory%20statistics%20and%20data%20science%20courses.pdf) [Anna Ferguson](https://www.stat.auckland.ac.nz/~fergusson/) showed off the "Quick Write Tool"
 
 ![](images/2026-08-03-11-44-13.png){fig-align="center"}
 
