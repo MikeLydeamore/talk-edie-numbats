@@ -152,7 +152,7 @@ You can self host this using the linked repo and a Google Sheet.
 ::: {.incremental}
 * Engage _actively_, but ✨anonymously✨^[@chi2014icap; @freeman2006anonymity]
 * Upvote each others questions
-* Multi-modal reply^[@cast2024udl;@meyer2014udl]:
+* Multi-modal reply^[@cast2024udl; @meyer2014udl]:
   * Text (emojis welcome!)
   * Draw (Tactile, visual learners)
   * GIPHY^[@habsari2021millennials]
