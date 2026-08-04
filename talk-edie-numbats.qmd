@@ -228,3 +228,17 @@ Deployment managed by Vercel, fully automated on every push to repo
 Connections to database and admin passwords handled by environment variables
 
 Generous free tier (so far)
+
+## Seeking collaborations 🔍
+
+* Do you have a large format classroom and would like to roll out Ed-ie? 
+* Do you want to contribute to the experimental design in measuring student engagement pre/post Ed-ie? 
+* Do you have a feature you want to desperately add? 
+* Do you have a knack for writing ethics applications?
+* Do you have art skills to give Ed-ie a face? 
+
+::: {.fragment .custom-callout-box}
+We welcome and acknowledge contributions of all shapes and sizes 😊
+:::
+
+## Cited sources
