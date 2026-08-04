@@ -9,6 +9,7 @@ format:
     css: theme.css
 execute:
   engine: knitr
+bibliography: references.bib
 ---
 
 ## Hi! 👋
@@ -150,17 +151,18 @@ You can self host this using the linked repo and a Google Sheet.
 ::: {.column width='50%'}
 ::: {.incremental}
 * Engage ✨anonymously✨
+* Upvote each others questions
 * Multi-modal reply:
   * Text (emojis welcome!)
   * Draw (Tactile, visual learners)
-  * GIPHY
-* Upvote each others questions
+  * GIPHY^[@habsari2021millennials]
+
+:::
 :::
 
 
-::: {.column width="45%"}
+::: {.column .fragment width="45%"}
 ![](images/drake.avif){fig-alt="Drake dancing in a music video" width="100%"}
-:::
 :::
 :::
 
