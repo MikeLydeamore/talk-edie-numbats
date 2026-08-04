@@ -182,6 +182,22 @@ The host page lets you log into a space, and manage your sessions.
 * Participants join a space + session using the join page, or the QR code on the host page
 :::
 
+## Ed-ie demo
+
+::: {.columns}
+::: {.column width='50%'}
+
+<https://www.ed-ie.com>
+
+:::
+
+::: {.column width='50%'}
+::: {.fragment style="text-align: center;"}
+![](images/wall-e.jpeg){fig-alt="WALL-E" style="width: 260px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
+:::
+:::
+:::
+
 ## Behind the scenes
 
 ::: {.columns}
