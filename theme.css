@@ -7,3 +7,30 @@
   color: #333333;                   /* Dark grey text color */
   font-family: sans-serif;          /* Clean modern font stack */
 }
+
+
+.reveal #title-slide {
+  position: relative;
+}
+
+.reveal #title-slide::after {
+  content: "Note: AI tools were used in the development of the work discussed in this talk. No robots were harmed in the process.";
+  position: absolute;
+  left: 8%;
+  top: calc(var(--slide-height) - 4.5rem);
+  transform: none;
+  box-sizing: border-box;
+  display: block;
+  width: min(720px, 62%);
+  max-width: 720px;
+  margin: 0;
+  padding: 0.6rem 0.8rem;
+  background-color: #eef4f9;
+  border: 4px solid #0066cc;
+  border-radius: 6px;
+  color: #333333;
+  font-size: 0.45em;
+  line-height: 1.25;
+  font-family: sans-serif;
+  text-align: left;
+}
