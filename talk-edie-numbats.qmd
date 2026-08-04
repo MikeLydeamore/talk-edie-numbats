@@ -11,6 +11,37 @@ execute:
   engine: knitr
 ---
 
+## Hi! 👋
+
+::: {.columns}
+::: {.column width="50%"}
+::: {style="text-align: center;"}
+![](images/fontikar-github-photo.jpeg){fig-alt="Fonti Kar" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
+:::
+
+* I'm Fonti Kar
+* CDPAE (mostly) at Caufield
+* Biodiversity data wrangler 
+* Lover of open source tools
+
+:::
+
+::: {.column width="50%"}
+::: {style="text-align: center;"}
+![](images/michael-lydeamore-github-photo.jpeg){fig-alt="Michael Lydeamore" style="width: 220px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
+:::
+
+* I'm Michael Lydeamore
+* Chief vibes officer
+:::
+:::
+
+
+## A classroom anecdote
+
+
+
+
 ## A development anecdote
 
 In `VSCode-R`, you can run custom commands using your highlighted text, very helpful for say `tar_load()` or `head()`.
@@ -132,4 +163,3 @@ Deployment managed by Vercel, fully automated on every push to repo
 Connections to database and admin passwords handled by environment variables
 
 Generous free tier (so far)
-
