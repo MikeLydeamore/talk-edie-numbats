@@ -84,13 +84,13 @@ This is exactly the fear students feel in our classes.
 :::
 :::
 
-## Introduction
+## Our inspo ✨
 
 At WOMBAT 2024, Anna Ferguson showed off the "Quick Write Tool"
 
 ![](images/2026-08-03-11-44-13.png){fig-align="center"}
 
-## Introduction
+## Our inspo ✨
 
 And it seems to work
 
@@ -115,9 +115,54 @@ Anna has released this tool openly (at ICOTS a few weeks ago)
 
 You can self host this using the linked repo and a Google Sheet.
 
-# Ed-ie
+## Ed-ie
+
+::: {.columns}
+::: {.column width='50%'}
 
 <https://www.ed-ie.com>
+
+:::
+
+::: {.column width='50%'}
+::: {.fragment style="text-align: center;"}
+![](images/wall-e.jpeg){fig-alt="WALL-E" style="width: 260px; aspect-ratio: 1; object-fit: cover; border-radius: 50%;"}
+:::
+:::
+:::
+
+## Ed-ie features as educators 🍎
+
+::: {.incremental}
+* Submit a prompt: 💬
+  * A pre-flight check
+  * A formative assessment
+  * A invite for questions/feedback
+* Pace the classroom ⏱️
+* Review responses before sharing widely 👷
+* Generate discussion and connection by sharing responses
+:::
+
+## Edie-features as learners 🐛
+
+
+::: {.columns}
+::: {.column width='50%'}
+::: {.incremental}
+* Engage ✨anonymously✨
+* Multi-modal reply:
+  * Text (emojis welcome!)
+  * Draw (Tactile, visual learners)
+  * GIPHY
+* Upvote each others questions
+:::
+
+
+::: {.column width="45%"}
+![](images/drake.avif){fig-alt="Drake dancing in a music video" width="100%"}
+:::
+:::
+:::
 
 ## Ed-ie structure
 
@@ -132,7 +177,7 @@ The host page lets you log into a space, and manage your sessions.
 :::
 
 ::: {.fragment}
-Participants join a space + session using the join page, or the QR code on the host page
+* Participants join a space + session using the join page, or the QR code on the host page
 :::
 
 ## Behind the scenes
