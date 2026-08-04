@@ -137,11 +137,11 @@ You can self host this using the linked repo and a Google Sheet.
 ::: {.incremental}
 * Submit a prompt: 💬
   * A pre-flight check
-  * A formative assessment
+  * A formative assessment^[@sadler1989formative]
   * A invite for questions/feedback
 * Pace the classroom ⏱️
 * Review responses before sharing widely 👷
-* Generate discussion and connection by sharing responses
+* Generate discussion and connection by sharing responses^[@garrison2000critical; @vygotsky1978mind]
 :::
 
 ## Edie-features as learners 🐛
@@ -150,9 +150,9 @@ You can self host this using the linked repo and a Google Sheet.
 ::: {.columns}
 ::: {.column width='50%'}
 ::: {.incremental}
-* Engage ✨anonymously✨
+* Engage _actively_, but ✨anonymously✨^[@chi2014icap; @freeman2006anonymity]
 * Upvote each others questions
-* Multi-modal reply:
+* Multi-modal reply^[@cast2024udl;@meyer2014udl]:
   * Text (emojis welcome!)
   * Draw (Tactile, visual learners)
   * GIPHY^[@habsari2021millennials]
